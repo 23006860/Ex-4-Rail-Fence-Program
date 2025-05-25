@@ -78,7 +78,9 @@ int main() {
 
 ~~~
 # OUTPUT
-![image](https://github.com/user-attachments/assets/260ce89a-04c3-4481-acf9-8b7ba80f9278)
+![Screenshot 2025-05-25 142521](https://github.com/user-attachments/assets/a6f63bba-0773-4cfc-bfff-7d5c14364bfe)
+
+
 
 ## Result:
 The program is executed successfully
